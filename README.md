@@ -10,7 +10,7 @@ The ESC-50-Onomatopoeia dataset consists of the following contents:
 
 - Onomatopoeic words for environmental sounds
 
-	We collected a total of 18,600 onomatopoeic words for for 31 kinds of environmental sounds (e.g., dog, keyboard typing). Each onomatopoeic word was collected from Japanese speakers in katakana, which is a Japanese syllabary. We converted each onomatopoeic word written by katakana into the English phoneme representation, which follows the conversion rule of [katakana2accphrase.csv](https://github.com/Y-Okamoto1221/ESC-50-Onomatopoeia/katakana2accphrase.csv).
+	We collected a total of 18,600 onomatopoeic words for for 31 kinds of environmental sounds (e.g., dog, keyboard typing). Each onomatopoeic word was collected from Japanese speakers in katakana, which is a Japanese syllabary. We converted each onomatopoeic word written by katakana into the English phoneme representation, which follows the conversion rule of [katakana2accphrase.csv](https://github.com/Y-Okamoto1221/ESC-50-Onomatopoeia/blob/main/katakana2accphrase.csv).
 
 - Self-reported confidence scores
 
