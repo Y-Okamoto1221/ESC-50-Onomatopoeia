@@ -35,11 +35,9 @@ The ESC-50-Onomatopoeia consists of following one csv file:
 ## Terms of use
 
 The ESC-50-Onomatopoeia may be used for 
-- Research by academic institutions
-- Non-commercial research, including research conducted within commercial organisations
+- Commercial and non-commercial research, including research conducted within commercial organizations, is permitted.
 - Personal use.
 
-If you want to use for commercial purposes, please contact Yuki Okamoto (y-okamoto@ieee.org).
 Re-distribution is not permitted, but you can use a part of this dataset (e.g., 〜10 onomatopoeic words) in your website or blog post.
 Please cite this paper when you use this dataset in your research paper, blog post, and preprint.
 
